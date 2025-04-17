@@ -118,7 +118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4242712197134225025}
   m_Layer: 0
-  m_Name: SOUPART_NATHALIE
+  m_Name: ROOT_SOUPART_NATHALIE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
