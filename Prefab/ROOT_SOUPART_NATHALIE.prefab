@@ -149,9 +149,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4242712197134225025}
     m_Modifications:
+    - target: {fileID: 2509386166475884, guid: a3f6ef968b586d74cb1e728d3dc22f1f, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 1257384328861202379, guid: a3f6ef968b586d74cb1e728d3dc22f1f, type: 3}
       propertyPath: m_Name
       value: Island Nathalie
+      objectReference: {fileID: 0}
+    - target: {fileID: 2958994128500605319, guid: a3f6ef968b586d74cb1e728d3dc22f1f, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8283510864757644512, guid: a3f6ef968b586d74cb1e728d3dc22f1f, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8283510864757644512, guid: a3f6ef968b586d74cb1e728d3dc22f1f, type: 3}
+      propertyPath: m_VersionIndex
+      value: 3029
       objectReference: {fileID: 0}
     - target: {fileID: 8840647424978791638, guid: a3f6ef968b586d74cb1e728d3dc22f1f, type: 3}
       propertyPath: m_LocalPosition.x
